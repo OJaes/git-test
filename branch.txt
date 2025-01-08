@@ -1,6 +1,9 @@
 main branch 1
 sub branch 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 sub1 branch 2
 >>>>>>> sub1
+=======
+>>>>>>> sub2
